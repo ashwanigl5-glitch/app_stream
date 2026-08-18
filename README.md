@@ -13,6 +13,8 @@ kNN	Decent non-linear distance baseline (89.36% Accuracy), but shows weak minori
 Naive Bayes	Shows the lowest overall structural Accuracy (86.39%) but acts as a strong generalized separator with a competitive Recall of 0.4877 and an AUC of 0.8088.
 Random Forest (Ensemble)	Outstanding generalisation capabilities. It leads across almost all key stability criteria: 90.49% Accuracy, 0.9272 AUC, 65.81% Precision, and an MCC of 0.4592.
 Overall Winner for your dataset?	Random Forest (Ensemble). It handles the target class imbalance smoothly, outputting the highest discriminative power (AUC) and best overall classification balance (MCC).
+<img width="251" height="935" alt="image" src="https://github.com/user-attachments/assets/c6a36a6e-50a1-405a-9667-1ca95d7be7aa" />
+
 
 
 
